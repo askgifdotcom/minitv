@@ -1,6 +1,96 @@
 <?xml version="1.0"?>
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-gif-1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-gif-2.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-gif-3.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-gif-1-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-gif-2-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-gif-3-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-giftags-1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-giftags-2.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-giftags-3.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-giftags-4.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-giftags-5.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-giftags-1-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-giftags-2-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-giftags-3-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-giftags-4-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-giftags-5-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blog-1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blog-2.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blog-3.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blog-4.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blog-1-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blog-2-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blog-3-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blog-4-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blogtags-1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blogtags-2.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blogtags-1-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blogtags-2-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blogcategory.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-blogcategory-hi.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://minitv.co.in/sitemap/sitemap-movie-1.xml</loc>
   </sitemap>
   <sitemap>
@@ -40,6 +130,9 @@
     <loc>https://minitv.co.in/sitemap/sitemap-movie-13.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-movie-14.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://minitv.co.in/sitemap/sitemap-movie-1-hi.xml</loc>
   </sitemap>
   <sitemap>
@@ -77,6 +170,9 @@
   </sitemap>
   <sitemap>
     <loc>https://minitv.co.in/sitemap/sitemap-movie-13-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-movie-14-hi.xml</loc>
   </sitemap>
   <sitemap>
     <loc>https://minitv.co.in/sitemap/sitemap-movie-actor-1.xml</loc>
@@ -359,5 +455,71 @@
   </sitemap>
   <sitemap>
     <loc>https://minitv.co.in/sitemap/sitemap-movie-genres-1-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-2.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-3.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-4.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-5.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-6.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-7.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-8.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-9.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-10.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-11.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-1-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-2-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-3-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-4-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-5-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-6-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-7-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-8-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-9-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-10-hi.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://minitv.co.in/sitemap/sitemap-company-11-hi.xml</loc>
   </sitemap>
 </sitemapindex>
